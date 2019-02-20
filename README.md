@@ -1,6 +1,6 @@
 # Agent Madoff @ Automated Negotiation Agents Competition 2017 - Diplomacy Challenge
 
-Detailed paper on my agent: https://tinyurl.com/agentMadoff.
+Detailed paper on my agent: https://arxiv.org/abs/1902.06996.
 
 The Automated Negotiation Agents Competition (ANAC) is one of the competitions which fuels research interest in developing practical, state-of-the-art agents that can negotiate under various circumstances. ANAC 2017 introduces a new negotiation league named as “Negotiation Strategies for the Diplomacy Strategy Game”, which is a much more surreal condition which is closer to the human negotiation environment, and with no doubt the complexity should increase significantly.
 
