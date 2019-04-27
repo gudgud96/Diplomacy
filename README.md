@@ -1,4 +1,4 @@
-# Agent Madoff @ ANAC 2017 - Diplomacy Challenge, IJCAI 2017
+# Agent Madoff @ ANAC Diplomacy Challenge, IJCAI 2017
 
 Detailed paper on my agent: https://arxiv.org/abs/1902.06996.
 
